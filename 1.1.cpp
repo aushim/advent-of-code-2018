@@ -9,4 +9,6 @@ int main() {
         sum += stoi(line);
     }
     cout << to_string(sum) << endl;
+    
+    return 0;
 }
